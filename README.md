@@ -17,6 +17,7 @@ Features:
 4.Speed of the alien keep on increases gradually throughout the game
 
 5.Sound effect on various events
+
 6. Mini ships are the helping hand of the player and get exploded and become inactive when the aliens reaches it
 
 7.The game gets over when the aliens are successful to reach the player
